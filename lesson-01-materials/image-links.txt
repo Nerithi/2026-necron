@@ -1,0 +1,15 @@
+Download the images from the following links:
+
+https://upload.wikimedia.org/wikipedia/commons/5/53/Roemermuseum_model_04.jpg
+
+https://upload.wikimedia.org/wikipedia/commons/2/2f/Asterix-Wandmalerei_Wuppertal.jpg
+
+https://en.wikipedia.org/wiki/File:Obelix1.png#filelinks
+
+Rename them to, respectively:
+
+gallic-village.jpg
+
+asterix.jpg
+
+obelix.png
