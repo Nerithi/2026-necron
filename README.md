@@ -11,7 +11,7 @@ If you run into trouble during the installation or download process, make notes 
 
 ## Navigating this page
 
-For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. Currently it has two subfolders you should be able to see: “lesson-01-materials” and “lesson-01-homework”. The first folder contains all of the files and instructions required to prepare for the first workshop. Further instructions are below and specifically under [Pre-lesson preparation further below](https://github.com/Nerithi/2026-necron?tab=readme-ov-file#pre-lesson-preparation).
+For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. Currently it has two subfolders you should be able to see: “lesson-01-materials” and “lesson-01-homework”. The first folder contains all of the files and instructions required to prepare for the first workshop. Further instructions are below and specifically under [Pre-lesson preparation](https://github.com/Nerithi/2026-necron?tab=readme-ov-file#pre-lesson-preparation).
 
 As the workshop progresses, more subfolders will appear, such as “lesson-02-homework” or “lesson-02-materials”. You can click on each of them to see what they contain and return to the main folder by clicking on its name at the top of the page.
 
