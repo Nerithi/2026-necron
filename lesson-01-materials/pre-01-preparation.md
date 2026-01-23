@@ -58,4 +58,4 @@ On Linux, check your distribution’s wiki/forum to see which installation file 
 
 # Additional downloads
 
-See [this file](lesson-01-materials/image-links.txt).
+See [this file](image-links.txt).
