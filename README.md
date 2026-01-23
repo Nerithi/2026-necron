@@ -36,7 +36,7 @@ The two files in question are called “.gitattributes” and “.gitignore”. 
 
 # Problems and questions
 
-Questions about the repository and the software can be sent to <e.m.magin@khm.uio.no>. Please be clear about what you’re struggling with. I need to know what you were doing, what you tried to fix it and at which point things went wrong. The more details and specifics you can give me, the easier it will be for me to help you.
+Questions about the repository and the software can be sent to <e.m.magin+necron@khm.uio.no>. Please be clear about what you’re struggling with. I need to know what you were doing, what you tried to fix it and at which point things went wrong. The more details and specifics you can give me, the easier it will be for me to help you.
 
 Example: “I tried to install Zettlr, but my computer refused to and asked for permissions. When I entered my credentials, I was told I need elevated privileges to install it.”
 
