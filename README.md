@@ -17,7 +17,8 @@ As the workshop progresses, more subfolders will appear, such as “lesson-02-ho
 
 ## How to download the files
 
-Downloading files works differently than you might be used to from other websites. If you have a GitHub account, you can simply clone the whole folder to your own computer ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). You can also download and install the [GitHub Desktop application](https://github.com/apps/desktop) for that purpose, but it is easiest if you just click on on the green button that says “\<\> Code” and choose “Download ZIP”.
+Downloading files works differently than you might be used to from other websites. It is easiest if you just click on on the green button that says **“\<\> Code” and choose “Download ZIP”**.
+If you have a GitHub account, clone the repository to your own computer ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). On Windows, you can also download and install the [GitHub Desktop application](https://github.com/apps/desktop) for that purpose.
 
 Once you have downloaded the whole repository as a ZIP, you can unpack it in a folder on your computer. **Avoid** unpacking it to OneDrive or Google Drive. Put it on your hard drive or an external medium like a USB or SSD.
 
