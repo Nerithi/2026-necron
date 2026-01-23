@@ -11,7 +11,7 @@ If you run into trouble during the installation or download process, make notes 
 
 ## Navigating this page
 
-For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. Currently it has two subfolders you should be able to see: “lesson-01-materials” and “lesson-01-homework”. The first folder contains all of the files and instructions required to prepare for the first workshop. Further instructions are below and specifically under [Pre-lesson preparation further below](#pre-lesson-prep).
+For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. Currently it has two subfolders you should be able to see: “lesson-01-materials” and “lesson-01-homework”. The first folder contains all of the files and instructions required to prepare for the first workshop. Further instructions are below and specifically under [Pre-lesson preparation further below](https://github.com/Nerithi/2026-necron?tab=readme-ov-file#pre-lesson-preparation-pre-lesson-prep).
 
 As the workshop progresses, more subfolders will appear, such as “lesson-02-homework” or “lesson-02-materials”. You can click on each of them to see what they contain and return to the main folder by clicking on its name at the top of the page.
 
@@ -25,7 +25,7 @@ Once you have downloaded the whole repository as a ZIP, you can unpack it in a f
 
 The two files in question are called “.gitattributes” and “.gitignore”. Do as the latter says and ignore them. While they are required to make GIT work properly, unless you start actively using it, they are not important for you.
 
-# Pre-lesson preparation {#pre-lesson-prep}
+# Pre-lesson preparation
 
 1. Download the code.
     + If you downloaded the folder as a ZIP, unpack it to a folder on your computer. **Pay attention:** If you download a ZIP, it always downloads the *whole* repository and all subfolders. If you unzip it over folders from previous lessons, it will attempt to overwrite the files you made changes to. Choose “Skip those files” instead OR unzip into a different new folder.
