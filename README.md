@@ -30,7 +30,7 @@ The two files in question are called “.gitattributes” and “.gitignore”. 
 1. Download the code.
     + If you downloaded the folder as a ZIP, unpack it to a folder on your computer. **Pay attention:** If you download a ZIP, it always downloads the *whole* repository and all subfolders. If you unzip it over folders from previous lessons, it will attempt to overwrite the files you made changes to. Choose “Skip those files” instead OR unzip into a different new folder.
     + If you cloned the repository to your computer using GIT or the GitHub Desktop application, you can pull the changes. Do not try to commit or push the changes you’ve made locally, it won’t work.
-2. Open the file named “pre-\[number\]-preparation” in the folder called “lesson-\[number\]-materials” and follow the instructions there.
+2. Open the file named “pre-\[number\]-preparation” in the folder called “lesson-\[number\]-materials” and follow the instructions there. You can also [view the file directly](https://github.com/Nerithi/2026-necron/blob/main/lesson-01-materials/pre-01-preparation.md).
 3. In case of issues, see below.
 
 # Problems and questions
