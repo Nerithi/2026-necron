@@ -64,7 +64,7 @@ Horizontal rules are simply a long line between different pieces of text used to
 
 ## Exercise
 
-1. Experiment with horizontal rules in the [final version of the document from the lesson](lesson-01-materials/lesson-01-basic.md), for example by inserting them before and after different paragraphs of text, in a blockquote, before and after a list and so on.
+1. Experiment with horizontal rules in the [final version of the document from the lesson](../lesson-01-materials/lesson-01-basic.md), for example by inserting them before and after different paragraphs of text, in a blockquote, before and after a list and so on.
 2. Decide for yourself which way of creating horizontal rules you prefer.
 
 # Code
@@ -73,5 +73,5 @@ While it’s usually rare in the Humanities to need to insert code into a docume
 
 ## Exercise
 
-1. Experiment with inserting code in the text paragraphs of the [final version of the document from the lesson](lesson-01-materials/lesson-01-basic.md), for example in a blockquote, a list and so on.
+1. Experiment with inserting code in the text paragraphs of the [final version of the document from the lesson](../lesson-01-materials/lesson-01-basic.md), for example in a blockquote, a list and so on.
 2. Insert some fenced code blocks into the document, before and after different paragraphs of text, lists, headings etc.
