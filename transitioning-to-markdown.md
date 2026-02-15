@@ -1,5 +1,5 @@
 ---
-title: "Transitioning to Using Markdown"
+title: Transitioning to Markdown
 author: Elisabeth Maria Magin
 date: February 2026
 ---
