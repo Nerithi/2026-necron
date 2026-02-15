@@ -11,27 +11,28 @@ If you run into trouble during the installation or download process, make notes 
 
 ## Navigating this page
 
-For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. Currently it has two subfolders you should be able to see: “lesson-01-materials” and “lesson-01-homework”. The first folder contains all of the files and instructions required to prepare for the first workshop. Further instructions are below and specifically under [Pre-lesson preparation](https://github.com/Nerithi/2026-necron?tab=readme-ov-file#pre-lesson-preparation).
+For those of you who are on a GitHub page for the first time, this is basically one online folder containing a number of subfolders. In this case, the main folder is called “2026-necron”. It has several subfolders, such as “lesson-01-materials” or “lesson-01-homework”. The folder names tell you what each folder contains. Every folder ending in “-materials” contains the materials for the lesson in question, each one ending in “-homework” has the files you’ll need for the homework.
 
-As the workshop progresses, more subfolders will appear, such as “lesson-02-homework” or “lesson-02-materials”. You can click on each of them to see what they contain and return to the main folder by clicking on its name at the top of the page.
+**The “-materials”-folders also contain information about the software you need to install prior to each lesson, and any additional downloads you’re expeced to have ready at the start of the lesson.** Further instructions are below and specifically under [Pre-lesson preparation](#pre-lesson-prep).
+
+As the workshop progresses, more subfolders will appear, such as “lesson-02-homework” or “lesson-03-materials”. You can click on each of them to see what they contain and return to the main folder by clicking on its name at the top of the page.
 
 ## How to download the files
 
-Downloading files works differently than you might be used to from other websites. It is easiest if you just click on on the green button that says **“\<\> Code” and choose “Download ZIP”**.
-If you have a GitHub account, clone the repository to your own computer ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). On Windows, you can also download and install the [GitHub Desktop application](https://github.com/apps/desktop) for that purpose.
+Downloading files works differently than you might be used to from other websites. It is easiest if you just click on on the green button that says **“\<\> Code” and choose “Download ZIP”**. Once you have downloaded the whole repository as a ZIP, you can unpack it in a folder on your computer. **Avoid** unpacking it to OneDrive or Google Drive. Put it on your hard drive or an external medium like a USB or SSD. **Take heed of the instructions under [Pre-lesson preparation](#pre-lesson-prep) when unzipping!**
 
-Once you have downloaded the whole repository as a ZIP, you can unpack it in a folder on your computer. **Avoid** unpacking it to OneDrive or Google Drive. Put it on your hard drive or an external medium like a USB or SSD.
+If you have a GitHub account, clone the repository to your own computer ([instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). On Windows, you can also download and install the [GitHub Desktop application](https://github.com/apps/desktop) for that purpose.
 
 ## Note on files starting with .
 
 The two files in question are called “.gitattributes” and “.gitignore”. Do as the latter says and ignore them. While they are required to make GIT work properly, unless you start actively using it, they are not important for you.
 
-# Pre-lesson preparation
+# Pre-lesson preparation {#pre-lesson-prep}
 
 1. Download the code.
     + If you downloaded the folder as a ZIP, unpack it to a folder on your computer. **Pay attention:** If you download a ZIP, it always downloads the *whole* repository and all subfolders. If you unzip it over folders from previous lessons, it will attempt to overwrite the files you made changes to. Choose “Skip those files” instead OR unzip into a different new folder.
     + If you cloned the repository to your computer using GIT or the GitHub Desktop application, you can pull the changes. Do not try to commit or push the changes you’ve made locally, it won’t work.
-2. Open the file named “pre-\[number\]-preparation” in the folder called “lesson-\[number\]-materials” and follow the instructions there. You can also [view the file directly](lesson-01-materials/pre-01-preparation.md).
+2. Open the file named “pre-\[number\]-preparation” in the folder called “lesson-\[number\]-materials” and follow the instructions there. You can also view the file directly on GitHub by navigating to the respective folder and clicking on the file.
 3. In case of issues, see below.
 
 # Problems and questions
