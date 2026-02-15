@@ -9,7 +9,7 @@ csl: chicago-author-date-16th-edition.csl
 
 # Overview of materials {#overview-material}
 
-|	| 10^th^ | 11^th^ | 12^th^ | Totals |
+|	| 10^th^ | 11^th^ | 12^th^ | ***Totals*** |
 |:----|:----:|:----:|:----:|----:|
 Iron (~26~Fe)|1|2|3|6|
 Woood|1|2|3|6|
@@ -23,6 +23,10 @@ As mentioned in the [overview](#overview-material) and as been discussed previou
 [^discussion]: For example by @potsandpans2024 [p. 12] , [@cookingequipment2020, p. 22] or [@liftingthelid2016, p. 101, 204, 330].
 
 @liftingthelid2016 [p. 200] was still of the opinion that this was due to preservation conditions. However, they corrected this statement in @cookingequipment2020.
+
+	Others have questioned this as well.
+
+Regardless …
 
 # References
 
