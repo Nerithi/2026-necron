@@ -2,7 +2,7 @@
 title: "Pots and Pans: Comparative Studies of Medieval Cooking Vessels"
 author: "Pernille Postdoc"
 #date: 2026
-abstract: "This paper discusses the use of different types of cooking vessles over the span of three centuries."
+abstract: "This paper discusses the use of different types of cooking vessels over the span of three centuries."
 bibliography: bibfile.bib
 csl: chicago-author-date-16th-edition.csl
 ---
@@ -12,7 +12,7 @@ csl: chicago-author-date-16th-edition.csl
 |	| 10^th^ | 11^th^ | 12^th^ | ***Totals*** |
 |:----|:----:|:----:|:----:|----:|
 Iron (~26~Fe)|1|2|3|6|
-Woood|1|2|3|6|
+Wood|1|2|3|6|
 Soapstone|1|2|3|6|
 ***Totals***|3|6|9|18|
 
@@ -30,5 +30,5 @@ As mentioned in the [overview](#overview-material) and as been discussed previou
 
 # References
 
-::: {#refs}
+:::{#refs}
 :::
