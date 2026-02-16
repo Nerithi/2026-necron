@@ -20,13 +20,13 @@ Soapstone|1|2|3|6|
 
 As mentioned in the [overview](#overview-material) and as been discussed previously[^discussion], 12^th^ century excavations have yielded the majority of evidence [@potsandpans2024].
 
-[^discussion]: For example by @potsandpans2024 [p. 12] , [@cookingequipment2020, p. 22] or [@liftingthelid2016, p. 101, 204, 330].
+[^discussion]: For example by @potsandpans2024 [p. 12], @cookingequipment2020 [p. 22] or @liftingthelid2016 [pp. 101, 204, 330].
+
+    Others have questioned this as well.
 
 @liftingthelid2016 [p. 200] was still of the opinion that this was due to preservation conditions. However, they corrected this statement in @cookingequipment2020.
 
-	Others have questioned this as well.
-
-Regardless …
+*Lifting the Lid* drew attention to different aspects [-@liftingthelid2016].
 
 # References
 
