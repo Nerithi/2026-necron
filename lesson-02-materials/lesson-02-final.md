@@ -5,6 +5,7 @@ author: "Pernille Postdoc"
 abstract: "This paper discusses the use of different types of cooking vessels over the span of three centuries."
 bibliography: bibfile.bib
 csl: chicago-author-date-16th-edition.csl
+#toc: true
 ---
 
 # Overview of materials {#overview-material}
