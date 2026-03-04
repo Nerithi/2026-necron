@@ -16,11 +16,11 @@ include-after:
 
 # Reference Managers & Citation Style Language
 
-To have references autocomplete in Zettler, you need to follow these instructions: <https://docs.zettlr.com/en/editor/citations/#enable-render-citations-setting>
+To have references autocomplete in Zettlr, you need to follow these instructions: <https://docs.zettlr.com/en/editor/citations/#enable-render-citations-setting>
 
 ## Resources
 
-See for example @groeneveld_how_0000 or @welber_research_nodate.
+See for example @academicpapersinmarkdown or @usingzoterowithbibtexlatex.
 
 1. CSL repositories
     + <https://www.zotero.org/styles>
