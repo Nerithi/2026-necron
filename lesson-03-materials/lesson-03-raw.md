@@ -5,7 +5,7 @@ This document exemplifies how to use Reference Managers, Citation Style Language
 
 Reference Managers & Citation Style Language (1st level)
 
-To have references autocomplete in Zettler, you need to follow these instructions: https://docs.zettlr.com/en/editor/citations/#enable-render-citations-setting
+To have references autocomplete in Zettlr, you need to follow these instructions: https://docs.zettlr.com/en/editor/citations/#enable-render-citations-setting
 
 Resources (2nd level)
 
